@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68a0639735771224f86a766186c6c5ff, type: 3}
+  m_Name: Controller Setting
+  m_EditorClassIdentifier: 
+  enableDynamicCenter: 1
+  initialRadius: 10
+  viewPanSpeed: 1
+  viewZoomSpeed: 1
+  viewOrbitSpeedVertical: 1
+  viewOrbitSpeedHorizontal: 1
+  invertPanX: 0
+  invertPanY: 0
+  invertOrbitH: 0
+  invertOrbitV: 0
+  invertZoom: 0
+  rayMaxDistance: 4000
+  useWorldOrientation: 1
+  fullScreenOnStart: 1

@@ -1,0 +1,26 @@
+{
+    "name": "Sean21.OneHMI",
+    "rootNamespace": "Sean21.OneHMI",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Unity.Addressables.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "1.0.0",
+            "define": "USE_TMP"
+        }
+    ],
+    "noEngineReferences": false
+}

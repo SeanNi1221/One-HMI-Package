@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b019501a698d1449a4de980711760b1, type: 3}
+  m_Name: Schema
+  m_EditorClassIdentifier: 
+  controllerSetting: {fileID: 11400000, guid: 6e5826d30bba59f4f88b724fcb97a592, type: 2}
+  inputBindingActions:
+  - {fileID: 11400000, guid: f72bfd4b4b83aa444af4e832a97605ed, type: 2}
+  resourceFileNameSource: 1
+  streamingImageFolder: NodeImages/
+  streamingDescFolder: NodeDescriptions/
+  _inputActionAsset: {fileID: -944628639613478452, guid: 3cf4107cc57c3b54faf08590ed78a91e, type: 3}
